@@ -325,9 +325,9 @@ BRASS_INGOT:
   - item/resources/ingots/brass_ingot
 BROKEN_SPAWNER:
   item: spawner
-  model: none
+  model: block
   textures:
-  - item/none
+  - item/magical_items/broken_spawner
 BRONZE_INGOT:
   item: gold_ingot
   model: item
@@ -470,9 +470,9 @@ CARROT_PIE:
   - item/none
 CAVEMAN_TALISMAN:
   item: emerald
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/talisman1/caveman
 CHAIN:
   item: string
   model: item
@@ -935,9 +935,9 @@ ENDER_BOOTS:
   - item/armor/ender_boots
 ENDER_CAVEMAN_TALISMAN:
   item: emerald
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/talisman2/caveman
 ENDER_CHESTPLATE:
   item: leather_chestplate
   model: item_color
@@ -1000,9 +1000,9 @@ ENDER_MINER_TALISMAN:
   - item/talisman2/miner
 ENDER_TALISMAN:
   item: emerald
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/talisman2/0_default
 ENDER_TRAVELLER_TALISMAN:
   item: emerald
   model: item
@@ -1025,9 +1025,9 @@ ENDER_WHIRLWIND_TALISMAN:
   - item/talisman2/whirlwind
 ENDER_WISE_TALISMAN:
   item: emerald
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/talisman2/wise
 ENDER_WIZARD_TALISMAN:
   item: emerald
   model: item
@@ -2596,9 +2596,9 @@ SYNTHETIC_SAPPHIRE:
   - item/resources/valuables/synthetic_sapphire
 SYNTHETIC_SHULKER_SHELL:
   item: shulker_shell
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/magical_items/synthetic_shulker_shell
 TABLE_SAW:
   item: stonecutter
   model: item
@@ -2691,9 +2691,9 @@ WHIRLWIND_TALISMAN:
   - item/talisman1/whirlwind
 WISE_TALISMAN:
   item: emerald
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/talisman1/wise
 WITHER_ASSEMBLER:
   item: obsidian
   model: item
