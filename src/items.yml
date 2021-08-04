@@ -80,9 +80,9 @@ ANCIENT_RUNE_SOULBOUND:
   - item/magical_items/rune_soulbound
 ANCIENT_RUNE_VILLAGERS:
   item: firework_star
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/magical_items/rune_villagers
 ANCIENT_RUNE_WATER:
   item: firework_star
   model: item
@@ -2337,24 +2337,24 @@ SLIME_LEGGINGS:
   - item/armor/slime_leggings
 SLIME_STEEL_BOOTS:
   item: iron_boots
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/slime_steel_boots
 SLIME_STEEL_CHESTPLATE:
   item: iron_chestplate
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/slime_steel_chestplate
 SLIME_STEEL_HELMET:
   item: iron_helmet
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/slime_steel_helmet
 SLIME_STEEL_LEGGINGS:
   item: iron_leggings
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/slime_steel_leggings
 SMALL_BACKPACK:
   item: player_head
   model: item
@@ -2561,9 +2561,9 @@ STONE_CHUNK:
   - item/miscellaneous/stone_chunk
 STRANGE_NETHER_GOO:
   item: purple_dye
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/magical_items/strange_nether_goo
 SULFATE:
   item: glowstone_dust
   model: item
