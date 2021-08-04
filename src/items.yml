@@ -350,22 +350,22 @@ BUTTER:
   - item/miscellaneous/butter
 CACTUS_BOOTS:
   item: leather_boots
-  model: none
+  model: item
   textures:
   - item/armor/cactus/cactus_boots
 CACTUS_CHESTPLATE:
   item: leather_chestplate
-  model: none
+  model: item
   textures:
   - item/armor/cactus/cactus_chestplate
 CACTUS_HELMET:
   item: leather_helmet
-  model: none
+  model: item
   textures:
   - item/armor/cactus/cactus_helmet
 CACTUS_LEGGINGS:
   item: leather_leggings
-  model: none
+  model: item
   textures:
   - item/armor/cactus/cactus_leggings
 CAN:
