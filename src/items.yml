@@ -1402,8 +1402,8 @@ GOLD_DUST:
   textures:
   - item/resources/dusts/gold_dust
 GOLD_PAN:
-  item: brown_terracotta
-  model: none
+  item: bowl
+  model: item
   textures:
   - item/tools/gold_pan
 GPS_ACTIVATION_DEVICE_PERSONAL:
@@ -1792,7 +1792,7 @@ NETHERSTAR_REACTOR:
   - item/energy/nether_star_reactor
 NETHER_GOLD_PAN:
   item: bowl
-  model: none
+  model: item
   textures:
   - item/tools/nether_gold_pan
 NETHER_ICE:
