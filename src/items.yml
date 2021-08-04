@@ -1,0 +1,2801 @@
+ADVANCED_CIRCUIT_BOARD:
+  item: powered_rail
+  model: item
+  textures:
+  - item/technical_components/advanced_board
+ADVANCED_INDUSTRIAL_MINER:
+  item: diamond_pickaxe
+  model: item
+  textures:
+  - item/basic_machines/advanced_industrial_miner
+ALUMINUM_BRASS_INGOT:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/ingots/aluminum_brass_ingot
+ALUMINUM_BRONZE_INGOT:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/ingots/aluminum_bronze_ingot
+ALUMINUM_DUST:
+  item: sugar
+  model: item
+  textures:
+  - item/resources/dusts/aluminum_dust
+ALUMINUM_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/aluminum_ingot
+ANCIENT_ALTAR:
+  item: enchanting_table
+  model: item
+  textures:
+  - item/magical_gadgets/ancient_altar
+ANCIENT_PEDESTAL:
+  item: dispenser
+  model: item
+  textures:
+  - item/magical_items/ancient_pedestal
+ANCIENT_RUNE_AIR:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_air
+ANCIENT_RUNE_EARTH:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_earth
+ANCIENT_RUNE_ENCHANTMENT:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_enchantment
+ANCIENT_RUNE_ENDER:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_ender
+ANCIENT_RUNE_FIRE:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_fire
+ANCIENT_RUNE_LIGHTNING:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_lightning
+ANCIENT_RUNE_RAINBOW:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_rainbow
+ANCIENT_RUNE_SOULBOUND:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_soulbound
+ANCIENT_RUNE_VILLAGERS:
+  item: firework_star
+  model: none
+  textures:
+  - item/none
+ANCIENT_RUNE_WATER:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_water
+ANDROID_INTERFACE_FUEL:
+  item: dispenser
+  model: item
+  textures:
+  - item/android/interface_fuel
+ANDROID_INTERFACE_ITEMS:
+  item: dispenser
+  model: item
+  textures:
+  - item/android/interface_items
+ANDROID_MEMORY_CORE:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/android_memory_core
+ANGEL_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/angel
+ANIMAL_GROWTH_ACCELERATOR:
+  item: hay_block
+  model: none
+  textures:
+  - item/none
+ANVIL_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/anvil
+APPLE_JUICE:
+  item: potion
+  model: item
+  textures:
+  - item/food/apple_juice
+ARMORED_JETBOOTS:
+  item: iron_boots
+  model: none
+  textures:
+  - item/none
+ARMOR_AUTO_CRAFTER:
+  item: player_head
+  model: none
+  textures:
+  - item/none
+ARMOR_FORGE:
+  item: anvil
+  model: item
+  textures:
+  - item/basic_machines/armor_forge
+AUTOMATED_CRAFTING_CHAMBER:
+  item: crafting_table
+  model: item
+  textures:
+  - item/energy/automated_crafting_chamber
+AUTOMATED_PANNING_MACHINE:
+  item: bowl
+  model: item
+  textures:
+  - item/basic_machines/automated_panning_machine
+AUTO_ANVIL:
+  item: iron_block
+  model: none
+  textures:
+  - item/none
+AUTO_ANVIL_2:
+  item: iron_block
+  model: none
+  textures:
+  - item/none
+AUTO_BREEDER:
+  item: hay_block
+  model: none
+  textures:
+  - item/none
+AUTO_BREWER:
+  item: smoker
+  model: none
+  textures:
+  - item/none
+AUTO_DISENCHANTER:
+  item: enchanting_table
+  model: item
+  textures:
+  - item/energy/auto_disenchanter
+AUTO_DISENCHANTER_2:
+  item: enchanting_table
+  model: none
+  textures:
+  - item/none
+AUTO_DRIER:
+  item: smoker
+  model: none
+  textures:
+  - item/none
+AUTO_ENCHANTER:
+  item: enchanting_table
+  model: item
+  textures:
+  - item/energy/auto_enchanter
+AUTO_ENCHANTER_2:
+  item: enchanting_table
+  model: none
+  textures:
+  - item/none
+BANDAGE:
+  item: paper
+  model: item
+  textures:
+  - item/items/bandage
+BASIC_CIRCUIT_BOARD:
+  item: activator_rail
+  model: item
+  textures:
+  - item/technical_components/basic_board
+BATTERY:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/battery
+BEEF_JERKY:
+  item: cooked_beef
+  model: item
+  textures:
+  - item/food/beef_jerky
+BEE_BOOTS:
+  item: golden_boots
+  model: none
+  textures:
+  - item/none
+BEE_HELMET:
+  item: golden_helmet
+  model: none
+  textures:
+  - item/none
+BEE_LEGGINGS:
+  item: golden_leggings
+  model: none
+  textures:
+  - item/none
+BEE_WINGS:
+  item: elytra
+  model: none
+  textures:
+  - item/none
+BIG_CAPACITOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/big_energy_capacitor
+BILLON_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/billon_ingot
+BILLON_JETBOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+BILLON_JETPACK:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+BILLON_MULTI_TOOL:
+  item: shears
+  model: none
+  textures:
+  - item/none
+BIO_REACTOR:
+  item: lime_terracotta
+  model: none
+  textures:
+  - item/none
+BIRTHDAY_CAKE:
+  item: cake
+  model: none
+  textures:
+  - item/none
+BLADE_OF_VAMPIRES:
+  item: golden_sword
+  model: none
+  textures:
+  - item/weapons/blade_of_vampires
+BLANK_RUNE:
+  item: firework_star
+  model: item
+  textures:
+  - item/magical_items/rune_blank
+BLISTERING_INGOT:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/radioactive_materials/blistering_ingot_33
+BLISTERING_INGOT_2:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/radioactive_materials/blistering_ingot_66
+BLISTERING_INGOT_3:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/radioactive_materials/blistering_ingot_100
+BLOCK_PLACER:
+  item: dispenser
+  model: item
+  textures:
+  - item/basic_machines/block_placer
+BOOK_BINDER:
+  item: bookshelf
+  model: none
+  textures:
+  - item/none
+BOOSTED_URANIUM:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/radioactive_materials/boosted_uranium
+BOOTS_OF_THE_STOMPER:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+BOUND_BACKPACK:
+  item: player_head
+  model: item
+  textures:
+  - item/magical_gadgets/backpack_soulbound
+BRASS_INGOT:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/ingots/brass_ingot
+BROKEN_SPAWNER:
+  item: spawner
+  model: none
+  textures:
+  - item/none
+BRONZE_INGOT:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/ingots/bronze_ingot
+BUCKET_OF_FUEL:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/fuel/fuel
+BUCKET_OF_OIL:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/fuel/oil
+BUTTER:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/butter
+CACTUS_BOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/armor/cactus/cactus_boots
+CACTUS_CHESTPLATE:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/armor/cactus/cactus_chestplate
+CACTUS_HELMET:
+  item: leather_helmet
+  model: none
+  textures:
+  - item/armor/cactus/cactus_helmet
+CACTUS_LEGGINGS:
+  item: leather_leggings
+  model: none
+  textures:
+  - item/armor/cactus/cactus_leggings
+CAN:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/tin_can
+CARBON:
+  item: black_stained_glass
+  model: item
+  textures:
+  - item/resources/valuables/carbon
+CARBONADO:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/valuables/carbonado
+CARBONADO_EDGED_CAPACITOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/carbonado_edged_energy_capacitor
+CARBONADO_EDGED_FURNACE:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/carbonado_edged_furnace
+CARBONADO_JETBOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+CARBONADO_JETPACK:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+CARBONADO_MULTI_TOOL:
+  item: shears
+  model: none
+  textures:
+  - item/none
+CARBON_CHUNK:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/valuables/carbon_chunk
+CARBON_PRESS:
+  item: black_stained_glass
+  model: none
+  textures:
+  - item/none
+CARBON_PRESS_2:
+  item: black_stained_glass
+  model: none
+  textures:
+  - item/none
+CARBON_PRESS_3:
+  item: black_stained_glass
+  model: none
+  textures:
+  - item/none
+CARGO_MANAGER:
+  item: player_head
+  model: item
+  textures:
+  - item/cargo/manager
+CARGO_MOTOR:
+  item: player_head
+  model: item
+  textures:
+  - item/cargo/motor
+CARGO_NODE:
+  item: player_head
+  model: item
+  textures:
+  - item/cargo/connector
+CARGO_NODE_INPUT:
+  item: player_head
+  model: item
+  textures:
+  - item/cargo/input
+CARGO_NODE_OUTPUT:
+  item: player_head
+  model: item
+  textures:
+  - item/cargo/output
+CARGO_NODE_OUTPUT_ADVANCED:
+  item: player_head
+  model: item
+  textures:
+  - item/cargo/output2
+CARROT_JUICE:
+  item: potion
+  model: item
+  textures:
+  - item/food/carrot_juice
+CARROT_PIE:
+  item: pumpkin_pie
+  model: none
+  textures:
+  - item/none
+CAVEMAN_TALISMAN:
+  item: emerald
+  model: none
+  textures:
+  - item/none
+CHAIN:
+  item: string
+  model: item
+  textures:
+  - item/miscellaneous/chain
+CHAIN_BOOTS:
+  item: chainmail_boots
+  model: none
+  textures:
+  - item/none
+CHAIN_CHESTPLATE:
+  item: chainmail_chestplate
+  model: none
+  textures:
+  - item/none
+CHAIN_HELMET:
+  item: chainmail_helmet
+  model: none
+  textures:
+  - item/none
+CHAIN_LEGGINGS:
+  item: chainmail_leggings
+  model: none
+  textures:
+  - item/none
+CHARGING_BENCH:
+  item: crafting_table
+  model: item
+  textures:
+  - item/energy/charging_bench
+CHEESE:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/cheese
+CHICKEN_JERKY:
+  item: cooked_chicken
+  model: item
+  textures:
+  - item/food/chicken_jerky
+CHRISTMAS_APPLE_CIDER:
+  item: potion
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_APPLE_PIE:
+  item: pumpkin_pie
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_CAKE:
+  item: pumpkin_pie
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_CARAMEL:
+  item: apple
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_CARAMEL_APPLE:
+  item: apple
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_CHOCOLATE_APPLE:
+  item: apple
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_CHOCOLATE_MILK:
+  item: potion
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_COOKIE:
+  item: cookie
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_EGG_NOG:
+  item: potion
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_FRUIT_CAKE:
+  item: pumpkin_pie
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_HOT_CHOCOLATE:
+  item: potion
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_MILK:
+  item: potion
+  model: none
+  textures:
+  - item/none
+CHRISTMAS_PRESENT:
+  item: player_head
+  model: none
+  textures:
+  - item/none
+CLIMBING_PICK:
+  item: iron_pickaxe
+  model: none
+  textures:
+  - item/none
+CLOTH:
+  item: paper
+  model: item
+  textures:
+  - item/miscellaneous/cloth
+COAL_GENERATOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/coal_generator
+COAL_GENERATOR_2:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/coal_generator2
+COBALT_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/cobalt_ingot
+COBALT_PICKAXE:
+  item: iron_pickaxe
+  model: none
+  textures:
+  - item/tools/cobalt_pickaxe
+COMBUSTION_REACTOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/combustion_reactor
+COMMON_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/magical_items/common_talisman
+COMPOSTER:
+  item: green_terracotta
+  model: item
+  textures:
+  - item/basic_machines/composter
+COMPRESSED_CARBON:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/valuables/compressed_carbon
+COMPRESSOR:
+  item: piston
+  model: item
+  textures:
+  - item/basic_machines/compressor
+COOLER:
+  item: player_head
+  model: item
+  textures:
+  - item/items/cooler
+COOLING_UNIT:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/cooling_unit
+COPPER_DUST:
+  item: glowstone_dust
+  model: item
+  textures:
+  - item/resources/dusts/copper_dust
+COPPER_INGOT:
+  item: brick
+  model: item
+  textures:
+  - item/resources/ingots/copper_ingot
+COPPER_WIRE:
+  item: string
+  model: item
+  textures:
+  - item/technical_components/copper_wire
+CORINTHIAN_BRONZE_INGOT:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/ingots/corinthian_bronze_ingot
+CRAFTING_MOTOR:
+  item: player_head
+  model: none
+  textures:
+  - item/none
+CROP_GROWTH_ACCELERATOR:
+  item: lime_terracotta
+  model: none
+  textures:
+  - item/none
+CROP_GROWTH_ACCELERATOR_2:
+  item: lime_terracotta
+  model: none
+  textures:
+  - item/none
+CRUCIBLE:
+  item: red_terracotta
+  model: item
+  textures:
+  - item/basic_machines/crucible
+CRUSHED_ORE:
+  item: gunpowder
+  model: item
+  textures:
+  - item/miscellaneous/crushed_ore
+DAMASCUS_STEEL_BOOTS:
+  item: iron_boots
+  model: none
+  textures:
+  - item/none
+DAMASCUS_STEEL_CHESTPLATE:
+  item: iron_chestplate
+  model: none
+  textures:
+  - item/none
+DAMASCUS_STEEL_HELMET:
+  item: iron_helmet
+  model: none
+  textures:
+  - item/none
+DAMASCUS_STEEL_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/damascus_steel_ingot
+DAMASCUS_STEEL_JETBOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+DAMASCUS_STEEL_JETPACK:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+DAMASCUS_STEEL_LEGGINGS:
+  item: iron_leggings
+  model: none
+  textures:
+  - item/none
+DAMASCUS_STEEL_MULTI_TOOL:
+  item: shears
+  model: none
+  textures:
+  - item/none
+DIET_COOKIE:
+  item: cookie
+  model: item
+  textures:
+  - item/food/diet_cookie
+DUCT_TAPE:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/duct_tape
+DURALUMIN_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/duralumin_ingot
+DURALUMIN_JETBOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+DURALUMIN_JETPACK:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+DURALUMIN_MULTI_TOOL:
+  item: shears
+  model: none
+  textures:
+  - item/none
+EASTER_APPLE_PIE:
+  item: pumpkin_pie
+  model: none
+  textures:
+  - item/none
+EASTER_EGG:
+  item: player_head
+  model: none
+  textures:
+  - item/none
+ELECTRIC_DUST_WASHER:
+  item: blue_stained_glass
+  model: none
+  textures:
+  - item/none
+ELECTRIC_DUST_WASHER_2:
+  item: blue_stained_glass
+  model: none
+  textures:
+  - item/none
+ELECTRIC_DUST_WASHER_3:
+  item: blue_stained_glass
+  model: none
+  textures:
+  - item/none
+ELECTRIC_FURNACE:
+  item: furnace
+  model: item
+  textures:
+  - item/energy/electric_furnace
+ELECTRIC_FURNACE_2:
+  item: furnace
+  model: item
+  textures:
+  - item/energy/electric_furnace2
+ELECTRIC_FURNACE_3:
+  item: furnace
+  model: item
+  textures:
+  - item/energy/electric_furnace3
+ELECTRIC_GOLD_PAN:
+  item: brown_terracotta
+  model: none
+  textures:
+  - item/none
+ELECTRIC_GOLD_PAN_2:
+  item: brown_terracotta
+  model: none
+  textures:
+  - item/none
+ELECTRIC_GOLD_PAN_3:
+  item: brown_terracotta
+  model: none
+  textures:
+  - item/none
+ELECTRIC_INGOT_FACTORY:
+  item: red_terracotta
+  model: none
+  textures:
+  - item/none
+ELECTRIC_INGOT_FACTORY_2:
+  item: red_terracotta
+  model: none
+  textures:
+  - item/none
+ELECTRIC_INGOT_FACTORY_3:
+  item: red_terracotta
+  model: none
+  textures:
+  - item/none
+ELECTRIC_INGOT_PULVERIZER:
+  item: furnace
+  model: item
+  textures:
+  - item/energy/electric_ingot_pulverizer
+ELECTRIC_MOTOR:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/electric_motor
+ELECTRIC_ORE_GRINDER:
+  item: furnace
+  model: item
+  textures:
+  - item/energy/electric_ore_grinder
+ELECTRIC_ORE_GRINDER_2:
+  item: furnace
+  model: item
+  textures:
+  - item/energy/electric_ore_grinder2
+ELECTRIC_ORE_GRINDER_3:
+  item: furnace
+  model: none
+  textures:
+  - item/none
+ELECTRIC_PRESS:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/electric_press
+ELECTRIC_PRESS_2:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/electric_press2
+ELECTRIC_SMELTERY:
+  item: furnace
+  model: item
+  textures:
+  - item/energy/electric_smeltery
+ELECTRIC_SMELTERY_2:
+  item: furnace
+  model: item
+  textures:
+  - item/energy/electric_smeltery2
+ELECTRIFIED_CRUCIBLE:
+  item: red_terracotta
+  model: none
+  textures:
+  - item/none
+ELECTRIFIED_CRUCIBLE_2:
+  item: red_terracotta
+  model: none
+  textures:
+  - item/none
+ELECTRIFIED_CRUCIBLE_3:
+  item: red_terracotta
+  model: none
+  textures:
+  - item/none
+ELECTRO_MAGNET:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/electromagnet
+ELEVATOR_PLATE:
+  item: stone_pressure_plate
+  model: none
+  textures:
+  - item/none
+ELYTRA:
+  item: elytra
+  model: none
+  textures:
+  - item/none
+ELYTRA_CAP:
+  item: leather_helmet
+  model: none
+  textures:
+  - item/none
+ELYTRA_SCALE:
+  item: feather
+  model: item
+  textures:
+  - item/magical_gadgets/elytra_scale
+ENDER_ANGEL_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/angel
+ENDER_ANVIL_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/anvil
+ENDER_BACKPACK:
+  item: player_head
+  model: item
+  textures:
+  - item/magical_gadgets/backpack_ender
+ENDER_BOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+ENDER_CAVEMAN_TALISMAN:
+  item: emerald
+  model: none
+  textures:
+  - item/none
+ENDER_CHESTPLATE:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+ENDER_FIRE_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/firefighter
+ENDER_HELMET:
+  item: leather_helmet
+  model: none
+  textures:
+  - item/none
+ENDER_HUNTER_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/hunter
+ENDER_KNIGHT_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/knight
+ENDER_LAVA_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/lava_walker
+ENDER_LEGGINGS:
+  item: leather_leggings
+  model: none
+  textures:
+  - item/none
+ENDER_LUMP_1:
+  item: gold_nugget
+  model: item
+  textures:
+  - item/magical_items/ender_lump
+ENDER_LUMP_2:
+  item: gold_nugget
+  model: item
+  textures:
+  - item/magical_items/ender_lump2
+ENDER_LUMP_3:
+  item: gold_nugget
+  model: item
+  textures:
+  - item/magical_items/ender_lump3
+ENDER_MAGICIAN_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/magican
+ENDER_MINER_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/miner
+ENDER_TALISMAN:
+  item: emerald
+  model: none
+  textures:
+  - item/none
+ENDER_TRAVELLER_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/traveller
+ENDER_WARRIOR_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/warrior
+ENDER_WATER_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/water_breather
+ENDER_WHIRLWIND_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/whirlwind
+ENDER_WISE_TALISMAN:
+  item: emerald
+  model: none
+  textures:
+  - item/none
+ENDER_WIZARD_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman2/wizard
+ENERGIZED_CAPACITOR:
+  item: player_head
+  model: none
+  textures:
+  - item/none
+ENERGY_CONNECTOR:
+  item: player_head
+  model: none
+  textures:
+  - item/none
+ENERGY_REGULATOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/energy_regulator
+ENHANCED_AUTO_CRAFTER:
+  item: player_head
+  model: none
+  textures:
+  - item/none
+ENHANCED_CRAFTING_TABLE:
+  item: crafting_table
+  model: item
+  textures:
+  - item/basic_machines/enchanced_crafting_table
+ENHANCED_FURNACE:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_1
+ENHANCED_FURNACE_10:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_10
+ENHANCED_FURNACE_11:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_11
+ENHANCED_FURNACE_2:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_2
+ENHANCED_FURNACE_3:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_3
+ENHANCED_FURNACE_4:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_4
+ENHANCED_FURNACE_5:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_5
+ENHANCED_FURNACE_6:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_6
+ENHANCED_FURNACE_7:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_7
+ENHANCED_FURNACE_8:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_8
+ENHANCED_FURNACE_9:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/enhanced_furnace_9
+ENRICHED_NETHER_ICE:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/valuables/enriched_nether_ice
+ESSENCE_OF_AFTERLIFE:
+  item: gunpowder
+  model: item
+  textures:
+  - item/magical_items/essence_of_afterlife
+EXPLOSIVE_BOW:
+  item: bow
+  model: bow
+  textures:
+  - item/weapons/explosive_bow/explosive_bow
+  - item/weapons/explosive_bow/explosive_bow_pulling_0
+  - item/weapons/explosive_bow/explosive_bow_pulling_1
+  - item/weapons/explosive_bow/explosive_bow_pulling_2
+EXPLOSIVE_PICKAXE:
+  item: diamond_pickaxe
+  model: none
+  textures:
+  - item/tools/explosive_pickaxe
+EXPLOSIVE_SHOVEL:
+  item: diamond_shovel
+  model: none
+  textures:
+  - item/tools/explosive_shovel
+FARMER_SHOES:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+FERROSILICON:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/ferrosilicon
+FERTILIZER_APPLE:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/apple
+FERTILIZER_BEETROOT:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/beetroot
+FERTILIZER_CARROT:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/carrots
+FERTILIZER_COCOA:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/cocoa_beans
+FERTILIZER_KELP:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/dried_kelp
+FERTILIZER_MELON:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/melon
+FERTILIZER_POTATO:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/potatoes
+FERTILIZER_SEEDS:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/seeds
+FERTILIZER_SWEET_BERRIES:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/sweet_berries
+FERTILIZER_WHEAT:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_fertilizer/wheat
+FIRE_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/firefighter
+FISH_JERKY:
+  item: cooked_cod
+  model: item
+  textures:
+  - item/food/fish_jerky
+FLASK_OF_KNOWLEDGE:
+  item: experience_bottle
+  model: item
+  textures:
+  - item/magical_gadgets/knowledge_flask
+FLUID_PUMP:
+  item: blue_terracotta
+  model: none
+  textures:
+  - item/none
+FOOD_COMPOSTER:
+  item: green_terracotta
+  model: none
+  textures:
+  - item/none
+FOOD_COMPOSTER_2:
+  item: green_terracotta
+  model: none
+  textures:
+  - item/none
+FOOD_FABRICATOR:
+  item: green_stained_glass
+  model: none
+  textures:
+  - item/none
+FOOD_FABRICATOR_2:
+  item: green_stained_glass
+  model: none
+  textures:
+  - item/none
+FORTUNE_COOKIE:
+  item: cookie
+  model: item
+  textures:
+  - item/food/fortune_cookie
+FREEZER:
+  item: light_blue_stained_glass
+  model: none
+  textures:
+  - item/none
+FREEZER_2:
+  item: light_blue_stained_glass
+  model: none
+  textures:
+  - item/none
+GEO_MINER:
+  item: player_head
+  model: item
+  textures:
+  - item/gps/geo_miner
+GILDED_BACKPACK:
+  item: player_head
+  model: item
+  textures:
+  - item/items/backpack_gilded
+GILDED_IRON:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/ingots/gilded_iron
+GILDED_IRON_BOOTS:
+  item: golden_boots
+  model: none
+  textures:
+  - item/none
+GILDED_IRON_CHESTPLATE:
+  item: golden_chestplate
+  model: none
+  textures:
+  - item/none
+GILDED_IRON_HELMET:
+  item: golden_helmet
+  model: none
+  textures:
+  - item/none
+GILDED_IRON_LEGGINGS:
+  item: golden_leggings
+  model: none
+  textures:
+  - item/none
+GLOWSTONE_BOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+GLOWSTONE_CHESTPLATE:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+GLOWSTONE_HELMET:
+  item: leather_helmet
+  model: none
+  textures:
+  - item/none
+GLOWSTONE_LEGGINGS:
+  item: leather_leggings
+  model: none
+  textures:
+  - item/none
+GOLDEN_APPLE_JUICE:
+  item: potion
+  model: item
+  textures:
+  - item/food/golden_apple_juice
+GOLD_10K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_10
+GOLD_12K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_12
+GOLD_12K_BOOTS:
+  item: golden_boots
+  model: none
+  textures:
+  - item/none
+GOLD_12K_CHESTPLATE:
+  item: golden_chestplate
+  model: none
+  textures:
+  - item/none
+GOLD_12K_HELMET:
+  item: golden_helmet
+  model: none
+  textures:
+  - item/none
+GOLD_12K_LEGGINGS:
+  item: golden_leggings
+  model: none
+  textures:
+  - item/none
+GOLD_14K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_14
+GOLD_16K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_16
+GOLD_18K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_18
+GOLD_20K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_20
+GOLD_22K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_22
+GOLD_24K:
+  item: gold_block
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_24
+GOLD_24K_BLOCK:
+  item: gold_block
+  model: item
+  textures:
+  - item/miscellaneous/gold_block_carat_24
+GOLD_4K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_4
+GOLD_6K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_6
+GOLD_8K:
+  item: gold_ingot
+  model: item
+  textures:
+  - item/resources/gold_ingots/gold_ingot_8
+GOLD_DUST:
+  item: glowstone_dust
+  model: item
+  textures:
+  - item/resources/dusts/gold_dust
+GOLD_PAN:
+  item: brown_terracotta
+  model: none
+  textures:
+  - item/tools/gold_pan
+GPS_ACTIVATION_DEVICE_PERSONAL:
+  item: stone_pressure_plate
+  model: none
+  textures:
+  - item/none
+GPS_ACTIVATION_DEVICE_SHARED:
+  item: stone_pressure_plate
+  model: none
+  textures:
+  - item/none
+GPS_CONTROL_PANEL:
+  item: player_head
+  model: item
+  textures:
+  - item/gps/gps_control_panel
+GPS_EMERGENCY_TRANSMITTER:
+  item: player_head
+  model: item
+  textures:
+  - item/gps/gps_emergency_transmitter
+GPS_GEO_SCANNER:
+  item: player_head
+  model: item
+  textures:
+  - item/gps/gps_geo_scanner
+GPS_MARKER_TOOL:
+  item: redstone_torch
+  model: none
+  textures:
+  - item/none
+GPS_TELEPORTATION_MATRIX:
+  item: iron_block
+  model: none
+  textures:
+  - item/none
+GPS_TELEPORTER_PYLON:
+  item: purple_stained_glass
+  model: block
+  textures:
+  - item/gps/teleporter_pylon
+GPS_TRANSMITTER:
+  item: player_head
+  model: item
+  textures:
+  - item/gps/gps_transmitter
+GPS_TRANSMITTER_2:
+  item: player_head
+  model: item
+  textures:
+  - item/gps/gps_transmitter_advanced
+GPS_TRANSMITTER_3:
+  item: player_head
+  model: item
+  textures:
+  - item/gps/gps_transmitter_carbonado
+GPS_TRANSMITTER_4:
+  item: player_head
+  model: item
+  textures:
+  - item/gps/gps_transmitter_energized
+GRANDMAS_WALKING_STICK:
+  item: stick
+  model: stick
+  textures:
+  - item/weapons/grandmas_walking_stick
+GRANDPAS_WALKING_STICK:
+  item: stick
+  model: stick
+  textures:
+  - item/weapons/grandpas_walking_stick
+GRAPPLING_HOOK:
+  item: lead
+  model: none
+  textures:
+  - item/tools/grappling_hook
+GRIND_STONE:
+  item: dispenser
+  model: item
+  textures:
+  - item/basic_machines/grind_stone
+HARDENED_GLASS:
+  item: light_gray_stained_glass
+  model: block
+  textures:
+  - item/technical_components/hardened_glass
+HARDENED_METAL_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/hardened_metal
+HAZMAT_CHESTPLATE:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+HAZMAT_LEGGINGS:
+  item: leather_leggings
+  model: none
+  textures:
+  - item/none
+HEATED_PRESSURE_CHAMBER:
+  item: light_gray_stained_glass
+  model: item
+  textures:
+  - item/energy/heated_pressure_chamber
+HEATED_PRESSURE_CHAMBER_2:
+  item: light_gray_stained_glass
+  model: item
+  textures:
+  - item/energy/heated_pressure_chamber2
+HEATING_COIL:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/heating_coil
+HEAVY_CREAM:
+  item: snowball
+  model: item
+  textures:
+  - item/miscellaneous/heavy_cream
+HERCULES_PICKAXE:
+  item: iron_pickaxe
+  model: none
+  textures:
+  - item/tools/hercules_pickaxe
+HOLOGRAM_PROJECTOR:
+  item: quartz_slab
+  model: none
+  textures:
+  - item/none
+HOOK:
+  item: flint
+  model: item
+  textures:
+  - item/miscellaneous/hook
+HUNTER_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/hunter
+ICY_BOW:
+  item: bow
+  model: bow
+  textures:
+  - item/weapons/icy_bow/icy_bow
+  - item/weapons/icy_bow/icy_bow_pulling_0
+  - item/weapons/icy_bow/icy_bow_pulling_1
+  - item/weapons/icy_bow/icy_bow_pulling_2
+IGNITION_CHAMBER:
+  item: dropper
+  model: item
+  textures:
+  - item/basic_machines/automatic_ignition_chamber
+INDUSTRIAL_MINER:
+  item: diamond_pickaxe
+  model: item
+  textures:
+  - item/basic_machines/industrial_miner
+INFERNAL_BONEMEAL:
+  item: bone_meal
+  model: item
+  textures:
+  - item/magical_gadgets/infernal_bonemeal
+INFUSED_ELYTRA:
+  item: elytra
+  model: none
+  textures:
+  - item/magical_gadgets/elytra/infused_elytra
+  - item/magical_gadgets/elytra/infused_broken_elytra
+INFUSED_HOPPER:
+  item: hopper
+  model: item
+  textures:
+  - item/magical_gadgets/infused_hopper
+INFUSED_MAGNET:
+  item: player_head
+  model: item
+  textures:
+  - item/magical_gadgets/infused_magnet
+IRON_DUST:
+  item: gunpowder
+  model: item
+  textures:
+  - item/resources/dusts/iron_dust
+IRON_GOLEM_ASSEMBLER:
+  item: iron_block
+  model: none
+  textures:
+  - item/none
+JUICER:
+  item: glass_bottle
+  model: item
+  textures:
+  - item/basic_machines/juicer
+KELP_COOKIE:
+  item: cookie
+  model: item
+  textures:
+  - item/food/kelp_cookie
+KNIGHT_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/knight
+LARGE_BACKPACK:
+  item: player_head
+  model: item
+  textures:
+  - item/items/backpack_large
+LARGE_CAPACITOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/large_energy_capacitor
+LAVA_CRYSTAL:
+  item: player_head
+  model: item
+  textures:
+  - item/magical_items/lava_crystal
+LAVA_GENERATOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/lava_generator
+LAVA_GENERATOR_2:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/lava_generator2
+LAVA_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/lava_walker
+LEAD_DUST:
+  item: gunpowder
+  model: item
+  textures:
+  - item/resources/dusts/lead_dust
+LEAD_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/lead_ingot
+LUMBER_AXE:
+  item: diamond_axe
+  model: none
+  textures:
+  - item/tools/lumber_axe
+MAGICAL_BOOK_COVER:
+  item: paper
+  model: item
+  textures:
+  - item/magical_items/magical_book_cover
+MAGICAL_GLASS:
+  item: glass_pane
+  model: item
+  textures:
+  - item/magical_items/magical_glass
+MAGICAL_ZOMBIE_PILLS:
+  item: nether_wart
+  model: item
+  textures:
+  - item/magical_gadgets/magical_zombie_pills
+MAGICIAN_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/magican
+MAGIC_EYE_OF_ENDER:
+  item: ender_eye
+  model: item
+  textures:
+  - item/magical_gadgets/magic_ender_eye
+MAGIC_LUMP_1:
+  item: gold_nugget
+  model: item
+  textures:
+  - item/magical_items/magical_lump
+MAGIC_LUMP_2:
+  item: gold_nugget
+  model: item
+  textures:
+  - item/magical_items/magical_lump2
+MAGIC_LUMP_3:
+  item: gold_nugget
+  model: item
+  textures:
+  - item/magical_items/magical_lump3
+MAGIC_SUGAR:
+  item: sugar
+  model: item
+  textures:
+  - item/food/magic_sugar
+MAGIC_WORKBENCH:
+  item: crafting_table
+  model: item
+  textures:
+  - item/basic_machines/magic_workbench
+MAGNESIUM_DUST:
+  item: sugar
+  model: item
+  textures:
+  - item/resources/dusts/magnesium_dust
+MAGNESIUM_GENERATOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/magnesium_generator
+MAGNESIUM_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/magnesium_ingot
+MAGNESIUM_SALT:
+  item: sugar
+  model: item
+  textures:
+  - item/resources/valuables/magnesium_salt
+MAGNET:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/magnet
+MAKESHIFT_SMELTERY:
+  item: blast_furnace
+  model: none
+  textures:
+  - item/none
+MEDICINE:
+  item: potion
+  model: item
+  textures:
+  - item/items/medicine
+MEDIUM_BACKPACK:
+  item: player_head
+  model: item
+  textures:
+  - item/items/backpack
+MEDIUM_CAPACITOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/medium_energy_capacitor
+MELON_JUICE:
+  item: potion
+  model: item
+  textures:
+  - item/food/melon_juice
+MINER_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/miner
+MONSTER_JERKY:
+  item: rotten_flesh
+  model: item
+  textures:
+  - item/food/monster_jerky
+MULTIMETER:
+  item: clock
+  model: none
+  textures:
+  - item/none
+MUTTON_JERKY:
+  item: cooked_mutton
+  model: item
+  textures:
+  - item/food/mutton_jerky
+NECROTIC_SKULL:
+  item: player_head
+  model: skull
+  textures:
+  - item/magical_items/necrotic_skull
+NEPTUNIUM:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/radioactive_materials/neptunium
+NETHERSTAR_REACTOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/nether_star_reactor
+NETHER_GOLD_PAN:
+  item: bowl
+  model: none
+  textures:
+  - item/tools/nether_gold_pan
+NETHER_ICE:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/valuables/nether_ice
+NETHER_ICE_COOLANT_CELL:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/nether_ice_coolant_cell
+NICKEL_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/nickel_ingot
+NIGHT_VISION_GOGGLES:
+  item: leather_helmet
+  model: none
+  textures:
+  - item/none
+NUCLEAR_REACTOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/nuclear_reactor
+OIL_PUMP:
+  item: player_head
+  model: item
+  textures:
+  - item/gps/oil_pump
+ORE_CRUSHER:
+  item: dispenser
+  model: item
+  textures:
+  - item/basic_machines/ore_crusher
+ORE_WASHER:
+  item: cauldron
+  model: item
+  textures:
+  - item/basic_machines/ore_washer
+ORGANIC_FOOD_APPLE:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/apple
+ORGANIC_FOOD_BEETROOT:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/beetroot
+ORGANIC_FOOD_CARROT:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/carrots
+ORGANIC_FOOD_COCOA:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/cocoa_beans
+ORGANIC_FOOD_KELP:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/dried_kelp
+ORGANIC_FOOD_MELON:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/melon
+ORGANIC_FOOD_POTATO:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/potatoes
+ORGANIC_FOOD_SEEDS:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/seeds
+ORGANIC_FOOD_SWEET_BERRIES:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/sweet_berries
+ORGANIC_FOOD_WHEAT:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/organic_food/wheat
+OUTPUT_CHEST:
+  item: chest
+  model: item
+  textures:
+  - item/basic_machines/output_chest
+PARACHUTE:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+PICKAXE_OF_CONTAINMENT:
+  item: iron_pickaxe
+  model: none
+  textures:
+  - item/tools/pickaxe_of_containment
+PICKAXE_OF_THE_SEEKER:
+  item: diamond_pickaxe
+  model: none
+  textures:
+  - item/tools/seeker_pickaxe
+PICKAXE_OF_VEIN_MINING:
+  item: diamond_pickaxe
+  model: none
+  textures:
+  - item/tools/vein_pickaxe
+PLASTIC_SHEET:
+  item: paper
+  model: item
+  textures:
+  - item/technical_components/plastic_sheet
+PLUTONIUM:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/radioactive_materials/plutonium
+PORK_JERKY:
+  item: cooked_porkchop
+  model: item
+  textures:
+  - item/food/pork_jerky
+PORTABLE_CRAFTER:
+  item: player_head
+  model: item
+  textures:
+  - item/items/portable_craftingtabble
+PORTABLE_DUSTBIN:
+  item: player_head
+  model: item
+  textures:
+  - item/items/portable_dustbin
+PORTABLE_GEO_SCANNER:
+  item: clock
+  model: none
+  textures:
+  - item/none
+PORTABLE_TELEPORTER:
+  item: compass
+  model: none
+  textures:
+  - item/none
+POWER_CRYSTAL:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/powered_crystal
+PRESSURE_CHAMBER:
+  item: light_gray_stained_glass
+  model: item
+  textures:
+  - item/basic_machines/pressure_chamber
+PRODUCE_COLLECTOR:
+  item: hay_block
+  model: none
+  textures:
+  - item/none
+PROGRAMMABLE_ANDROID:
+  item: player_head
+  model: item
+  textures:
+  - item/android/normal
+PROGRAMMABLE_ANDROID_2:
+  item: player_head
+  model: item
+  textures:
+  - item/android2/normal
+PROGRAMMABLE_ANDROID_2_BUTCHER:
+  item: player_head
+  model: item
+  textures:
+  - item/android2/butcher
+PROGRAMMABLE_ANDROID_2_FARMER:
+  item: player_head
+  model: item
+  textures:
+  - item/android2/farmer
+PROGRAMMABLE_ANDROID_2_FISHERMAN:
+  item: player_head
+  model: item
+  textures:
+  - item/android2/fisherman
+PROGRAMMABLE_ANDROID_3:
+  item: player_head
+  model: item
+  textures:
+  - item/android3/normal
+PROGRAMMABLE_ANDROID_3_BUTCHER:
+  item: player_head
+  model: item
+  textures:
+  - item/android3/butcher
+PROGRAMMABLE_ANDROID_3_FISHERMAN:
+  item: player_head
+  model: item
+  textures:
+  - item/android3/fisherman
+PROGRAMMABLE_ANDROID_BUTCHER:
+  item: player_head
+  model: item
+  textures:
+  - item/android/butcher
+PROGRAMMABLE_ANDROID_FARMER:
+  item: player_head
+  model: item
+  textures:
+  - item/android/farmer
+PROGRAMMABLE_ANDROID_FISHERMAN:
+  item: player_head
+  model: item
+  textures:
+  - item/android/fisherman
+PROGRAMMABLE_ANDROID_MINER:
+  item: player_head
+  model: item
+  textures:
+  - item/android/miner
+PROGRAMMABLE_ANDROID_WOODCUTTER:
+  item: player_head
+  model: item
+  textures:
+  - item/android/woodcutter
+PULVERIZED_ORE:
+  item: gunpowder
+  model: item
+  textures:
+  - item/miscellaneous/pulverized_ore
+PUMPKIN_JUICE:
+  item: potion
+  model: item
+  textures:
+  - item/food/pumpkin_juice
+PURE_ORE_CLUSTER:
+  item: gunpowder
+  model: item
+  textures:
+  - item/miscellaneous/pure_ore_cluster
+RABBIT_JERKY:
+  item: cooked_rabbit
+  model: item
+  textures:
+  - item/food/rabbit_jerky
+RADIANT_BACKPACK:
+  item: player_head
+  model: item
+  textures:
+  - item/items/backpack_radiant
+RAG:
+  item: player_head
+  model: item
+  textures:
+  - item/items/rag
+RAINBOW_CLAY:
+  item: orange_terracotta
+  model: block
+  textures:
+  - item/magical_gadgets/rainbow_clay
+RAINBOW_CLAY_HALLOWEEN:
+  item: orange_terracotta
+  model: none
+  textures:
+  - item/none
+RAINBOW_CLAY_VALENTINE:
+  item: pink_terracotta
+  model: none
+  textures:
+  - item/none
+RAINBOW_CLAY_XMAS:
+  item: white_terracotta
+  model: none
+  textures:
+  - item/none
+RAINBOW_CONCRETE:
+  item: orange_concrete
+  model: block
+  textures:
+  - item/magical_gadgets/rainbow_concrete
+RAINBOW_CONCRETE_HALLOWEEN:
+  item: orange_concrete
+  model: none
+  textures:
+  - item/none
+RAINBOW_CONCRETE_VALENTINE:
+  item: pink_concrete
+  model: none
+  textures:
+  - item/none
+RAINBOW_CONCRETE_XMAS:
+  item: white_concrete
+  model: none
+  textures:
+  - item/none
+RAINBOW_GLASS:
+  item: white_stained_glass
+  model: block
+  textures:
+  - item/magical_gadgets/rainbow_glass
+RAINBOW_GLASS_HALLOWEEN:
+  item: orange_stained_glass
+  model: none
+  textures:
+  - item/none
+RAINBOW_GLASS_PANE:
+  item: white_stained_glass_pane
+  model: item
+  textures:
+  - item/magical_gadgets/rainbow_glass_pane
+RAINBOW_GLASS_PANE_HALLOWEEN:
+  item: orange_stained_glass_pane
+  model: none
+  textures:
+  - item/none
+RAINBOW_GLASS_PANE_VALENTINE:
+  item: pink_stained_glass_pane
+  model: none
+  textures:
+  - item/none
+RAINBOW_GLASS_PANE_XMAS:
+  item: white_stained_glass_pane
+  model: none
+  textures:
+  - item/none
+RAINBOW_GLASS_VALENTINE:
+  item: pink_stained_glass
+  model: none
+  textures:
+  - item/none
+RAINBOW_GLASS_XMAS:
+  item: white_stained_glass
+  model: none
+  textures:
+  - item/none
+RAINBOW_GLAZED_TERRACOTTA:
+  item: orange_glazed_terracotta
+  model: block
+  textures:
+  - item/magical_gadgets/rainbow_glazed_terracotta
+RAINBOW_GLAZED_TERRACOTTA_HALLOWEEN:
+  item: orange_glazed_terracotta
+  model: none
+  textures:
+  - item/none
+RAINBOW_GLAZED_TERRACOTTA_VALENTINE:
+  item: pink_glazed_terracotta
+  model: none
+  textures:
+  - item/none
+RAINBOW_GLAZED_TERRACOTTA_XMAS:
+  item: white_glazed_terracotta
+  model: none
+  textures:
+  - item/none
+RAINBOW_WOOL:
+  item: orange_wool
+  model: block
+  textures:
+  - item/magical_gadgets/rainbow_wool
+RAINBOW_WOOL_HALLOWEEN:
+  item: orange_wool
+  model: none
+  textures:
+  - item/none
+RAINBOW_WOOL_VALENTINE:
+  item: pink_wool
+  model: none
+  textures:
+  - item/none
+RAINBOW_WOOL_XMAS:
+  item: white_wool
+  model: none
+  textures:
+  - item/none
+RAW_CARBONADO:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/valuables/raw_carbon
+REACTOR_ACCESS_PORT:
+  item: cyan_terracotta
+  model: none
+  textures:
+  - item/none
+REACTOR_COLLANT_CELL:
+  item: player_head
+  model: item
+  textures:
+  - item/technical_components/reactor_coolant_cell
+REDSTONE_ALLOY:
+  item: brick
+  model: item
+  textures:
+  - item/resources/ingots/redstone_alloy_ingot
+REFINERY:
+  item: piston
+  model: item
+  textures:
+  - item/energy/refinery
+REINFORCED_ALLOY_BOOTS:
+  item: iron_boots
+  model: none
+  textures:
+  - item/none
+REINFORCED_ALLOY_CHESTPLATE:
+  item: iron_chestplate
+  model: none
+  textures:
+  - item/none
+REINFORCED_ALLOY_HELMET:
+  item: iron_helmet
+  model: none
+  textures:
+  - item/none
+REINFORCED_ALLOY_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/reinforced_alloy
+REINFORCED_ALLOY_JETBOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+REINFORCED_ALLOY_JETPACK:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+REINFORCED_ALLOY_LEGGINGS:
+  item: iron_leggings
+  model: none
+  textures:
+  - item/none
+REINFORCED_ALLOY_MULTI_TOOL:
+  item: shears
+  model: none
+  textures:
+  - item/none
+REINFORCED_CLOTH:
+  item: paper
+  model: item
+  textures:
+  - item/technical_components/reinforced_cloth
+REINFORCED_FURNACE:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/reinforced_furnace
+REINFORCED_PLATE:
+  item: paper
+  model: item
+  textures:
+  - item/miscellaneous/reinforced_plate
+REINFORCED_SPAWNER:
+  item: spawner
+  model: none
+  textures:
+  - item/none
+RESTORED_BACKPACK:
+  item: player_head
+  model: none
+  textures:
+  - item/none
+RUBBER_BOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+SALT:
+  item: sugar
+  model: item
+  textures:
+  - item/miscellaneous/salt
+SCROLL_OF_DIMENSIONAL_TELEPOSITION:
+  item: paper
+  model: item
+  textures:
+  - item/magical_gadgets/dimensional_scroll
+SCUBA_HELMET:
+  item: leather_helmet
+  model: none
+  textures:
+  - item/none
+SEISMIC_AXE:
+  item: iron_axe
+  model: none
+  textures:
+  - item/weapons/seismic_axe
+SIFTED_ORE:
+  item: gunpowder
+  model: item
+  textures:
+  - item/miscellaneous/sifted_ore
+SILICON:
+  item: firework_star
+  model: item
+  textures:
+  - item/resources/valuables/silicon
+SILVER_DUST:
+  item: sugar
+  model: item
+  textures:
+  - item/resources/dusts/silver_dust
+SILVER_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/silver_ingot
+SLIMEFUN_GUIDE:
+  item: enchanted_book
+  model: item
+  textures:
+  - item/gui/slimefun_guide
+SLIME_BOOTS:
+  item: iron_boots
+  model: none
+  textures:
+  - item/none
+SLIME_CHESTPLATE:
+  item: iron_chestplate
+  model: none
+  textures:
+  - item/none
+SLIME_HELMET:
+  item: iron_helmet
+  model: none
+  textures:
+  - item/none
+SLIME_LEGGINGS:
+  item: iron_leggings
+  model: none
+  textures:
+  - item/none
+SLIME_STEEL_BOOTS:
+  item: iron_boots
+  model: none
+  textures:
+  - item/none
+SLIME_STEEL_CHESTPLATE:
+  item: iron_chestplate
+  model: none
+  textures:
+  - item/none
+SLIME_STEEL_HELMET:
+  item: iron_helmet
+  model: none
+  textures:
+  - item/none
+SLIME_STEEL_LEGGINGS:
+  item: iron_leggings
+  model: none
+  textures:
+  - item/none
+SMALL_BACKPACK:
+  item: player_head
+  model: item
+  textures:
+  - item/items/backpack_small
+SMALL_CAPACITOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/small_energy_capacitor
+SMALL_URANIUM:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/small_chunk_of_uranium
+SMELTERS_PICKAXE:
+  item: diamond_pickaxe
+  model: none
+  textures:
+  - item/tools/smelter_pickaxe
+SMELTERY:
+  item: furnace
+  model: item
+  textures:
+  - item/basic_machines/smeltery
+SOLAR_GENERATOR:
+  item: daylight_detector
+  model: none
+  textures:
+  - item/none
+SOLAR_GENERATOR_2:
+  item: daylight_detector
+  model: none
+  textures:
+  - item/none
+SOLAR_GENERATOR_3:
+  item: daylight_detector
+  model: none
+  textures:
+  - item/none
+SOLAR_GENERATOR_4:
+  item: daylight_detector
+  model: none
+  textures:
+  - item/none
+SOLAR_HELMET:
+  item: iron_helmet
+  model: none
+  textures:
+  - item/none
+SOLAR_PANEL:
+  item: daylight_detector
+  model: none
+  textures:
+  - item/none
+SOLDER_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/solder_ingot
+SOLDER_JETBOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+SOLDER_JETPACK:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+SOLDER_MULTI_TOOL:
+  item: shears
+  model: none
+  textures:
+  - item/none
+SOULBOUND_AXE:
+  item: diamond_axe
+  model: none
+  textures:
+  - item/tools/soulbound_axe
+SOULBOUND_BOOTS:
+  item: diamond_boots
+  model: none
+  textures:
+  - item/none
+SOULBOUND_BOW:
+  item: bow
+  model: bow
+  textures:
+  - item/weapons/soulbound_bow/soulbound_bow
+  - item/weapons/soulbound_bow/soulbound_bow_pulling_0
+  - item/weapons/soulbound_bow/soulbound_bow_pulling_1
+  - item/weapons/soulbound_bow/soulbound_bow_pulling_2
+SOULBOUND_CHESTPLATE:
+  item: diamond_chestplate
+  model: none
+  textures:
+  - item/none
+SOULBOUND_ELYTRA:
+  item: elytra
+  model: none
+  textures:
+  - item/magical_gadgets/elytra/soulbound_elytra
+  - item/magical_gadgets/elytra/soulbound_broken_elytra
+SOULBOUND_HELMET:
+  item: diamond_helmet
+  model: none
+  textures:
+  - item/none
+SOULBOUND_HOE:
+  item: diamond_hoe
+  model: none
+  textures:
+  - item/tools/soulbound_hoe
+SOULBOUND_LEGGINGS:
+  item: diamond_leggings
+  model: none
+  textures:
+  - item/none
+SOULBOUND_PICKAXE:
+  item: diamond_pickaxe
+  model: none
+  textures:
+  - item/tools/soulbound_pickaxe
+SOULBOUND_SHOVEL:
+  item: diamond_shovel
+  model: none
+  textures:
+  - item/tools/soulbound_shovel
+SOULBOUND_SWORD:
+  item: diamond_sword
+  model: none
+  textures:
+  - item/weapons/soulbound_sword
+SOULBOUND_TRIDENT:
+  item: trident
+  model: none
+  textures:
+  - item/weapons/soulbound_trident
+SPLINT:
+  item: stick
+  model: item
+  textures:
+  - item/items/splint
+STAFF_ELEMENTAL:
+  item: stick
+  model: item
+  textures:
+  - item/magical_gadgets/elemental_staff
+STAFF_ELEMENTAL_FIRE:
+  item: stick
+  model: item
+  textures:
+  - item/magical_gadgets/fire_staff
+STAFF_ELEMENTAL_STORM:
+  item: stick
+  model: item
+  textures:
+  - item/magical_gadgets/storm_staff
+STAFF_ELEMENTAL_WATER:
+  item: stick
+  model: item
+  textures:
+  - item/magical_gadgets/water_staff
+STAFF_ELEMENTAL_WIND:
+  item: stick
+  model: item
+  textures:
+  - item/magical_gadgets/wind_staff
+STEEL_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/steel_ingot
+STEEL_JETBOOTS:
+  item: leather_boots
+  model: none
+  textures:
+  - item/none
+STEEL_JETPACK:
+  item: leather_chestplate
+  model: none
+  textures:
+  - item/none
+STEEL_MULTI_TOOL:
+  item: shears
+  model: none
+  textures:
+  - item/none
+STEEL_PLATE:
+  item: paper
+  model: item
+  textures:
+  - item/miscellaneous/steel_plate
+STEEL_THRUSTER:
+  item: bucket
+  model: item
+  textures:
+  - item/technical_components/steel_thruster
+STONE_CHUNK:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/stone_chunk
+STRANGE_NETHER_GOO:
+  item: purple_dye
+  model: none
+  textures:
+  - item/none
+SULFATE:
+  item: glowstone_dust
+  model: item
+  textures:
+  - item/resources/valuables/sulfate
+SWEET_BERRY_JUICE:
+  item: potion
+  model: item
+  textures:
+  - item/food/sweet_berry_juice
+SWORD_OF_BEHEADING:
+  item: iron_sword
+  model: none
+  textures:
+  - item/weapons/sword_of_beheading
+SYNTHETIC_DIAMOND:
+  item: diamond
+  model: item
+  textures:
+  - item/resources/valuables/synthetic_diamond
+SYNTHETIC_EMERALD:
+  item: emerald
+  model: item
+  textures:
+  - item/resources/valuables/synthetic_emerald
+SYNTHETIC_SAPPHIRE:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/valuables/synthetic_sapphire
+SYNTHETIC_SHULKER_SHELL:
+  item: shulker_shell
+  model: none
+  textures:
+  - item/none
+TABLE_SAW:
+  item: stonecutter
+  model: none
+  textures:
+  - item/none
+TAPE_MEASURE:
+  item: player_head
+  model: item
+  textures:
+  - item/items/tape_measure
+TINY_URANIUM:
+  item: player_head
+  model: item
+  textures:
+  - item/miscellaneous/tiny_pile_of_uranium
+TIN_DUST:
+  item: sugar
+  model: item
+  textures:
+  - item/resources/dusts/tin_dust
+TIN_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/tin_ingot
+TOME_OF_KNOWLEDGE_SHARING:
+  item: enchanted_book
+  model: item
+  textures:
+  - item/magical_gadgets/knowledge_tome
+TOTEM_OF_UNDYING:
+  item: totem_of_undying
+  model: none
+  textures:
+  - item/none
+TRASH_CAN_BLOCK:
+  item: player_head
+  model: item
+  textures:
+  - item/cargo/trash
+TRAVELLER_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/traveller
+TREE_GROWTH_ACCELERATOR:
+  item: brown_terracotta
+  model: none
+  textures:
+  - item/none
+TRIDENT:
+  item: trident
+  model: none
+  textures:
+  - item/none
+URANIUM:
+  item: player_head
+  model: item
+  textures:
+  - item/resources/radioactive_materials/uranium
+VANILLA_AUTO_CRAFTER:
+  item: player_head
+  model: none
+  textures:
+  - item/none
+VITAMINS:
+  item: nether_wart
+  model: item
+  textures:
+  - item/items/vitamins
+WARRIOR_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/warrior
+WATER_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/water_breather
+WHEAT_FLOUR:
+  item: sugar
+  model: item
+  textures:
+  - item/miscellaneous/wheat_flour
+WHIRLWIND_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/whirlwind
+WISE_TALISMAN:
+  item: emerald
+  model: none
+  textures:
+  - item/none
+WITHER_ASSEMBLER:
+  item: obsidian
+  model: item
+  textures:
+  - item/energy/wither_assembler
+WITHER_PROOF_GLASS:
+  item: purple_stained_glass
+  model: block
+  textures:
+  - item/technical_components/wither_proof_glass
+WITHER_PROOF_OBSIDIAN:
+  item: obsidian
+  model: block
+  textures:
+  - item/technical_components/wither_proof_obsidian
+WIZARD_TALISMAN:
+  item: emerald
+  model: item
+  textures:
+  - item/talisman1/wizard
+WOVEN_BACKPACK:
+  item: player_head
+  model: item
+  textures:
+  - item/items/backpack_woven
+XP_COLLECTOR:
+  item: player_head
+  model: item
+  textures:
+  - item/energy/exp_collector
+ZINC_DUST:
+  item: sugar
+  model: item
+  textures:
+  - item/resources/dusts/zinc_dust
+ZINC_INGOT:
+  item: iron_ingot
+  model: item
+  textures:
+  - item/resources/ingots/zinc_ingot
+_UI_BACK:
+  item: enchanted_book
+  model: gui
+  textures:
+  - item/gui/back
+_UI_BACKGROUND:
+  item: gray_stained_glass_pane
+  model: gui
+  textures:
+  - item/gui/background
+_UI_INPUT_SLOT:
+  item: cyan_stained_glass_pane
+  model: none
+  textures:
+  - item/none
+_UI_MENU:
+  item: comparator
+  model: gui
+  textures:
+  - item/gui/menu
+_UI_NEXT_ACTIVE:
+  item: lime_stained_glass_pane
+  model: gui
+  textures:
+  - item/gui/next_active
+_UI_NEXT_INACTIVE:
+  item: black_stained_glass_pane
+  model: gui
+  textures:
+  - item/gui/next_inactive
+_UI_NOT_RESEARCHED:
+  item: barrier
+  model: none
+  textures:
+  - item/none
+_UI_NO_PERMISSION:
+  item: barrier
+  model: none
+  textures:
+  - item/none
+_UI_OUTPUT_SLOT:
+  item: orange_stained_glass_pane
+  model: none
+  textures:
+  - item/none
+_UI_PREVIOUS_ACTIVE:
+  item: lime_stained_glass_pane
+  model: gui
+  textures:
+  - item/gui/previous_active
+_UI_PREVIOUS_INACTIVE:
+  item: black_stained_glass_pane
+  model: gui
+  textures:
+  - item/gui/previous_inactive
+_UI_SEARCH:
+  item: name_tag
+  model: gui
+  textures:
+  - item/gui/search
+_UI_WIKI:
+  item: knowledge_book
+  model: none
+  textures:
+  - item/gui/wiki

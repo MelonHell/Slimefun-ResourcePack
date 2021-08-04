@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "%texture%"
+    },
+	"display": {
+		"gui": {
+			"scale":  [ 1.1, 1.1, 1.1 ]
+        }
+	}
+}
