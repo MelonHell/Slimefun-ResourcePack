@@ -582,7 +582,7 @@ CLIMBING_PICK:
   item: iron_pickaxe
   model: none
   textures:
-  - item/none
+  - item/tools/climbing_pick
 CLOTH:
   item: paper
   model: item
@@ -1734,7 +1734,7 @@ MAKESHIFT_SMELTERY:
   item: blast_furnace
   model: none
   textures:
-  - item/none
+  - item/basic_machines/makeshift_smeltery
 MEDICINE:
   item: potion
   model: item_color
@@ -2601,9 +2601,9 @@ SYNTHETIC_SHULKER_SHELL:
   - item/none
 TABLE_SAW:
   item: stonecutter
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/basic_machines/table_saw
 TAPE_MEASURE:
   item: player_head
   model: item
