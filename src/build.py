@@ -6,7 +6,7 @@ from pathlib import Path
 # CONFIG
 
 namespace = "slimefun"
-skip_none = True
+skip_none = False
 short_names = False
 
 # CODE

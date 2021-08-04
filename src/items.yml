@@ -120,7 +120,7 @@ ANVIL_TALISMAN:
   - item/talisman1/anvil
 APPLE_JUICE:
   item: potion
-  model: item
+  model: item_color
   textures:
   - item/food/apple_juice
 ARMORED_JETBOOTS:
@@ -350,24 +350,24 @@ BUTTER:
   - item/miscellaneous/butter
 CACTUS_BOOTS:
   item: leather_boots
-  model: item
+  model: item_color
   textures:
-  - item/armor/cactus/cactus_boots
+  - item/armor/cactus_boots
 CACTUS_CHESTPLATE:
   item: leather_chestplate
-  model: item
+  model: item_color
   textures:
-  - item/armor/cactus/cactus_chestplate
+  - item/armor/cactus_chestplate
 CACTUS_HELMET:
   item: leather_helmet
-  model: item
+  model: item_color
   textures:
-  - item/armor/cactus/cactus_helmet
+  - item/armor/cactus_helmet
 CACTUS_LEGGINGS:
   item: leather_leggings
-  model: item
+  model: item_color
   textures:
-  - item/armor/cactus/cactus_leggings
+  - item/armor/cactus_leggings
 CAN:
   item: player_head
   model: item
@@ -460,7 +460,7 @@ CARGO_NODE_OUTPUT_ADVANCED:
   - item/cargo/output2
 CARROT_JUICE:
   item: potion
-  model: item
+  model: item_color
   textures:
   - item/food/carrot_juice
 CARROT_PIE:
@@ -690,19 +690,19 @@ CRUSHED_ORE:
   - item/miscellaneous/crushed_ore
 DAMASCUS_STEEL_BOOTS:
   item: iron_boots
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/damascus_steel_boots
 DAMASCUS_STEEL_CHESTPLATE:
   item: iron_chestplate
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/damascus_steel_chestplate
 DAMASCUS_STEEL_HELMET:
   item: iron_helmet
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/damascus_steel_helmet
 DAMASCUS_STEEL_INGOT:
   item: iron_ingot
   model: item
@@ -720,9 +720,9 @@ DAMASCUS_STEEL_JETPACK:
   - item/none
 DAMASCUS_STEEL_LEGGINGS:
   item: iron_leggings
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/damascus_steel_leggings
 DAMASCUS_STEEL_MULTI_TOOL:
   item: shears
   model: none
@@ -930,9 +930,9 @@ ENDER_BACKPACK:
   - item/magical_gadgets/backpack_ender
 ENDER_BOOTS:
   item: leather_boots
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/ender_boots
 ENDER_CAVEMAN_TALISMAN:
   item: emerald
   model: none
@@ -940,9 +940,9 @@ ENDER_CAVEMAN_TALISMAN:
   - item/none
 ENDER_CHESTPLATE:
   item: leather_chestplate
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/ender_chestplate
 ENDER_FIRE_TALISMAN:
   item: emerald
   model: item
@@ -950,9 +950,9 @@ ENDER_FIRE_TALISMAN:
   - item/talisman2/firefighter
 ENDER_HELMET:
   item: leather_helmet
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/ender_helmet
 ENDER_HUNTER_TALISMAN:
   item: emerald
   model: item
@@ -970,9 +970,9 @@ ENDER_LAVA_TALISMAN:
   - item/talisman2/lava_walker
 ENDER_LEGGINGS:
   item: leather_leggings
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/ender_leggings
 ENDER_LUMP_1:
   item: gold_nugget
   model: item
@@ -1273,47 +1273,47 @@ GILDED_IRON:
   - item/resources/ingots/gilded_iron
 GILDED_IRON_BOOTS:
   item: golden_boots
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/gilded_iron_boots
 GILDED_IRON_CHESTPLATE:
   item: golden_chestplate
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/gilded_iron_chestplate
 GILDED_IRON_HELMET:
   item: golden_helmet
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/gilded_iron_helmet
 GILDED_IRON_LEGGINGS:
   item: golden_leggings
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/gilded_iron_leggings
 GLOWSTONE_BOOTS:
   item: leather_boots
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/glowstone_boots
 GLOWSTONE_CHESTPLATE:
   item: leather_chestplate
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/glowstone_chestplate
 GLOWSTONE_HELMET:
   item: leather_helmet
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/glowstone_helmet
 GLOWSTONE_LEGGINGS:
   item: leather_leggings
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/glowstone_leggings
 GOLDEN_APPLE_JUICE:
   item: potion
-  model: item
+  model: item_color
   textures:
   - item/food/golden_apple_juice
 GOLD_10K:
@@ -1328,24 +1328,24 @@ GOLD_12K:
   - item/resources/gold_ingots/gold_ingot_12
 GOLD_12K_BOOTS:
   item: golden_boots
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/gold_12k_boots
 GOLD_12K_CHESTPLATE:
   item: golden_chestplate
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/gold_12k_chestplate
 GOLD_12K_HELMET:
   item: golden_helmet
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/gold_12k_helmet
 GOLD_12K_LEGGINGS:
   item: golden_leggings
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/gold_12k_leggings
 GOLD_14K:
   item: gold_ingot
   model: item
@@ -1498,14 +1498,14 @@ HARDENED_METAL_INGOT:
   - item/resources/ingots/hardened_metal
 HAZMAT_CHESTPLATE:
   item: leather_chestplate
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/hazmat_chestplate
 HAZMAT_LEGGINGS:
   item: leather_leggings
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/hazmat_leggings
 HEATED_PRESSURE_CHAMBER:
   item: light_gray_stained_glass
   model: item
@@ -1737,7 +1737,7 @@ MAKESHIFT_SMELTERY:
   - item/none
 MEDICINE:
   item: potion
-  model: item
+  model: item_color
   textures:
   - item/items/medicine
 MEDIUM_BACKPACK:
@@ -1752,7 +1752,7 @@ MEDIUM_CAPACITOR:
   - item/energy/medium_energy_capacitor
 MELON_JUICE:
   item: potion
-  model: item
+  model: item_color
   textures:
   - item/food/melon_juice
 MINER_TALISMAN:
@@ -2032,7 +2032,7 @@ PULVERIZED_ORE:
   - item/miscellaneous/pulverized_ore
 PUMPKIN_JUICE:
   item: potion
-  model: item
+  model: item_color
   textures:
   - item/food/pumpkin_juice
 PURE_ORE_CLUSTER:
@@ -2202,19 +2202,19 @@ REFINERY:
   - item/energy/refinery
 REINFORCED_ALLOY_BOOTS:
   item: iron_boots
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/reinforced_alloy_boots
 REINFORCED_ALLOY_CHESTPLATE:
   item: iron_chestplate
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/reinforced_alloy_chestplate
 REINFORCED_ALLOY_HELMET:
   item: iron_helmet
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/reinforced_alloy_helmet
 REINFORCED_ALLOY_INGOT:
   item: iron_ingot
   model: item
@@ -2232,9 +2232,9 @@ REINFORCED_ALLOY_JETPACK:
   - item/none
 REINFORCED_ALLOY_LEGGINGS:
   item: iron_leggings
-  model: none
+  model: item
   textures:
-  - item/none
+  - item/armor/reinforced_alloy_leggings
 REINFORCED_ALLOY_MULTI_TOOL:
   item: shears
   model: none
@@ -2267,9 +2267,9 @@ RESTORED_BACKPACK:
   - item/none
 RUBBER_BOOTS:
   item: leather_boots
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/rubber_boots
 SALT:
   item: sugar
   model: item
@@ -2282,9 +2282,9 @@ SCROLL_OF_DIMENSIONAL_TELEPOSITION:
   - item/magical_gadgets/dimensional_scroll
 SCUBA_HELMET:
   item: leather_helmet
-  model: none
+  model: item_color
   textures:
-  - item/none
+  - item/armor/scuba_helmet
 SEISMIC_AXE:
   item: iron_axe
   model: none
@@ -2316,25 +2316,25 @@ SLIMEFUN_GUIDE:
   textures:
   - item/gui/slimefun_guide
 SLIME_BOOTS:
-  item: iron_boots
-  model: none
+  item: leather_boots
+  model: item_color
   textures:
-  - item/none
+  - item/armor/slime_boots
 SLIME_CHESTPLATE:
-  item: iron_chestplate
-  model: none
+  item: leather_chestplate
+  model: item_color
   textures:
-  - item/none
+  - item/armor/slime_chestplate
 SLIME_HELMET:
-  item: iron_helmet
-  model: none
+  item: leather_helmet
+  model: item_color
   textures:
-  - item/none
+  - item/armor/slime_helmet
 SLIME_LEGGINGS:
-  item: iron_leggings
-  model: none
+  item: leather_leggings
+  model: item_color
   textures:
-  - item/none
+  - item/armor/slime_leggings
 SLIME_STEEL_BOOTS:
   item: iron_boots
   model: none
@@ -2571,7 +2571,7 @@ SULFATE:
   - item/resources/valuables/sulfate
 SWEET_BERRY_JUICE:
   item: potion
-  model: item
+  model: item_color
   textures:
   - item/food/sweet_berry_juice
 SWORD_OF_BEHEADING:
