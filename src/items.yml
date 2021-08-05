@@ -1560,7 +1560,7 @@ IGNITION_CHAMBER:
   textures:
   - item/basic_machines/automatic_ignition_chamber
 INDUSTRIAL_MINER:
-  item: diamond_pickaxe
+  item: golden_pickaxe
   model: item
   textures:
   - item/basic_machines/industrial_miner
@@ -1951,7 +1951,7 @@ POWER_CRYSTAL:
   textures:
   - item/technical_components/powered_crystal
 PRESSURE_CHAMBER:
-  item: light_gray_stained_glass
+  item: glass
   model: item
   textures:
   - item/basic_machines/pressure_chamber
