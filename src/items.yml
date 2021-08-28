@@ -127,7 +127,9 @@ ARMORED_JETBOOTS:
   item: iron_boots
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/jet_boots_armored
+  armor:
+  - models/technical_gadgets/jet_boots_armored
 ARMOR_AUTO_CRAFTER:
   item: player_head
   model: generated
@@ -217,22 +219,28 @@ BEE_BOOTS:
   item: golden_boots
   model: generated
   textures:
-  - item/none
+  - item/magical_armor/bee_boots
+  armor:
+  - models/magical_armor/bee
 BEE_HELMET:
   item: golden_helmet
   model: generated
   textures:
-  - item/none
+  - item/magical_armor/bee_helmet
+  armor:
+  - models/magical_armor/bee
 BEE_LEGGINGS:
   item: golden_leggings
   model: generated
   textures:
-  - item/none
+  - item/magical_armor/bee_leggings
+  armor:
+  - models/magical_armor/bee
 BEE_WINGS:
   item: elytra
   model: generated
   textures:
-  - item/none
+  - item/magical_armor/bee_wings
 BIG_CAPACITOR:
   item: player_head
   model: generated
@@ -245,19 +253,23 @@ BILLON_INGOT:
   - item/resources/ingots/billon_ingot
 BILLON_JETBOOTS:
   item: leather_boots
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/jet_boots_3
+  armor:
+  - models/technical_gadgets/jet_boots_3
 BILLON_JETPACK:
   item: leather_chestplate
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/electric_jetpack_3
+  armor:
+  - models/technical_gadgets/electric_jetpack_3
 BILLON_MULTI_TOOL:
   item: shears
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/multi_tool_3
 BIO_REACTOR:
   item: lime_terracotta
   model: generated
@@ -310,9 +322,11 @@ BOOSTED_URANIUM:
   - item/resources/radioactive_materials/boosted_uranium
 BOOTS_OF_THE_STOMPER:
   item: leather_boots
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/magical_armor/boots_of_the_stomper
+  armor:
+  - models/magical_armor/boots_of_the_stomper
 BOUND_BACKPACK:
   item: player_head
   model: generated
@@ -353,21 +367,29 @@ CACTUS_BOOTS:
   model: generated_color
   textures:
   - item/armor/cactus_boots
+  armor:
+  - models/armor/cactus
 CACTUS_CHESTPLATE:
   item: leather_chestplate
   model: generated_color
   textures:
   - item/armor/cactus_chestplate
+  armor:
+  - models/armor/cactus
 CACTUS_HELMET:
   item: leather_helmet
   model: generated_color
   textures:
   - item/armor/cactus_helmet
+  armor:
+  - models/armor/cactus
 CACTUS_LEGGINGS:
   item: leather_leggings
   model: generated_color
   textures:
   - item/armor/cactus_leggings
+  armor:
+  - models/armor/cactus
 CAN:
   item: player_head
   model: generated
@@ -395,19 +417,23 @@ CARBONADO_EDGED_FURNACE:
   - item/basic_machines/carbonado_edged_furnace
 CARBONADO_JETBOOTS:
   item: leather_boots
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/jet_boots_7
+  armor:
+  - models/technical_gadgets/jet_boots_7
 CARBONADO_JETPACK:
   item: leather_chestplate
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/electric_jetpack_7
+  armor:
+  - models/technical_gadgets/electric_jetpack_7
 CARBONADO_MULTI_TOOL:
   item: shears
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/multi_tool_7
 CARBON_CHUNK:
   item: player_head
   model: generated
@@ -467,7 +493,7 @@ CARROT_PIE:
   item: pumpkin_pie
   model: generated
   textures:
-  - item/none
+  - item/seasonal/easter/carrot_pie
 CAVEMAN_TALISMAN:
   item: emerald
   model: generated
@@ -545,9 +571,9 @@ CHRISTMAS_CHOCOLATE_APPLE:
   - item/none
 CHRISTMAS_CHOCOLATE_MILK:
   item: potion
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/seasonal/christmas/chocolate_milk
 CHRISTMAS_COOKIE:
   item: cookie
   model: generated
@@ -555,9 +581,9 @@ CHRISTMAS_COOKIE:
   - item/none
 CHRISTMAS_EGG_NOG:
   item: potion
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/seasonal/christmas/egg_nog
 CHRISTMAS_FRUIT_CAKE:
   item: pumpkin_pie
   model: generated
@@ -570,9 +596,9 @@ CHRISTMAS_HOT_CHOCOLATE:
   - item/none
 CHRISTMAS_MILK:
   item: potion
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/seasonal/christmas/glass_of_milk
 CHRISTMAS_PRESENT:
   item: player_head
   model: generated
@@ -693,16 +719,22 @@ DAMASCUS_STEEL_BOOTS:
   model: generated
   textures:
   - item/armor/damascus_steel_boots
+  armor:
+  - models/armor/damascus_steel
 DAMASCUS_STEEL_CHESTPLATE:
   item: iron_chestplate
   model: generated
   textures:
   - item/armor/damascus_steel_chestplate
+  armor:
+  - models/armor/damascus_steel
 DAMASCUS_STEEL_HELMET:
   item: iron_helmet
   model: generated
   textures:
   - item/armor/damascus_steel_helmet
+  armor:
+  - models/armor/damascus_steel
 DAMASCUS_STEEL_INGOT:
   item: iron_ingot
   model: generated
@@ -710,24 +742,30 @@ DAMASCUS_STEEL_INGOT:
   - item/resources/ingots/damascus_steel_ingot
 DAMASCUS_STEEL_JETBOOTS:
   item: leather_boots
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/jet_boots_5
+  armor:
+  - models/technical_gadgets/jet_boots_5
 DAMASCUS_STEEL_JETPACK:
   item: leather_chestplate
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/electric_jetpack_5
+  armor:
+  - models/technical_gadgets/electric_jetpack_5
 DAMASCUS_STEEL_LEGGINGS:
   item: iron_leggings
   model: generated
   textures:
   - item/armor/damascus_steel_leggings
+  armor:
+  - models/armor/damascus_steel
 DAMASCUS_STEEL_MULTI_TOOL:
   item: shears
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/multi_tool_5
 DIET_COOKIE:
   item: cookie
   model: generated
@@ -745,29 +783,33 @@ DURALUMIN_INGOT:
   - item/resources/ingots/duralumin_ingot
 DURALUMIN_JETBOOTS:
   item: leather_boots
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/jet_boots_1
+  armor:
+  - models/technical_gadgets/jet_boots_1
 DURALUMIN_JETPACK:
   item: leather_chestplate
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/electric_jetpack_1
+  armor:
+  - models/technical_gadgets/electric_jetpack_1
 DURALUMIN_MULTI_TOOL:
   item: shears
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/multi_tool_1
 EASTER_APPLE_PIE:
   item: pumpkin_pie
   model: generated
   textures:
-  - item/none
+  - item/seasonal/easter/apple_pie
 EASTER_EGG:
   item: player_head
   model: generated
   textures:
-  - item/none
+  - item/seasonal/easter/easter_egg
 ELECTRIC_DUST_WASHER:
   item: blue_stained_glass
   model: generated
@@ -897,7 +939,7 @@ ELEVATOR_PLATE:
   item: stone_pressure_plate
   model: generated
   textures:
-  - item/none
+  - item/gps/elevator_plate
 ELYTRA:
   item: elytra
   model: generated
@@ -905,7 +947,7 @@ ELYTRA:
   - item/none
 ELYTRA_CAP:
   item: leather_helmet
-  model: generated
+  model: generated_color
   textures:
   - item/none
 ELYTRA_SCALE:
@@ -932,7 +974,9 @@ ENDER_BOOTS:
   item: leather_boots
   model: generated_color
   textures:
-  - item/armor/ender_boots
+  - item/magical_armor/ender_boots
+  armor:
+  - models/magical_armor/ender
 ENDER_CAVEMAN_TALISMAN:
   item: emerald
   model: generated
@@ -942,7 +986,9 @@ ENDER_CHESTPLATE:
   item: leather_chestplate
   model: generated_color
   textures:
-  - item/armor/ender_chestplate
+  - item/magical_armor/ender_chestplate
+  armor:
+  - models/magical_armor/ender
 ENDER_FIRE_TALISMAN:
   item: emerald
   model: generated
@@ -952,7 +998,9 @@ ENDER_HELMET:
   item: leather_helmet
   model: generated_color
   textures:
-  - item/armor/ender_helmet
+  - item/magical_armor/ender_helmet
+  armor:
+  - models/magical_armor/ender
 ENDER_HUNTER_TALISMAN:
   item: emerald
   model: generated
@@ -972,7 +1020,9 @@ ENDER_LEGGINGS:
   item: leather_leggings
   model: generated_color
   textures:
-  - item/armor/ender_leggings
+  - item/magical_armor/ender_leggings
+  armor:
+  - models/magical_armor/ender
 ENDER_LUMP_1:
   item: gold_nugget
   model: generated
@@ -1143,9 +1193,11 @@ EXPLOSIVE_SHOVEL:
   - item/tools/explosive_shovel
 FARMER_SHOES:
   item: leather_boots
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/magical_armor/farmer_shoes
+  armor:
+  - models/magical_armor/farmer_shoes
 FERROSILICON:
   item: iron_ingot
   model: generated
@@ -1212,7 +1264,7 @@ FISH_JERKY:
   textures:
   - item/food/fish_jerky
 FLASK_OF_KNOWLEDGE:
-  item: experience_bottle
+  item: glass_bottle
   model: generated
   textures:
   - item/magical_gadgets/knowledge_flask
@@ -1276,41 +1328,57 @@ GILDED_IRON_BOOTS:
   model: generated
   textures:
   - item/armor/gilded_iron_boots
+  armor:
+  - models/armor/gilded_iron
 GILDED_IRON_CHESTPLATE:
   item: golden_chestplate
   model: generated
   textures:
   - item/armor/gilded_iron_chestplate
+  armor:
+  - models/armor/gilded_iron
 GILDED_IRON_HELMET:
   item: golden_helmet
   model: generated
   textures:
   - item/armor/gilded_iron_helmet
+  armor:
+  - models/armor/gilded_iron
 GILDED_IRON_LEGGINGS:
   item: golden_leggings
   model: generated
   textures:
   - item/armor/gilded_iron_leggings
+  armor:
+  - models/armor/gilded_iron
 GLOWSTONE_BOOTS:
   item: leather_boots
   model: generated_color
   textures:
-  - item/armor/glowstone_boots
+  - item/magical_armor/glowstone_boots
+  armor:
+  - models/magical_armor/glowstone
 GLOWSTONE_CHESTPLATE:
   item: leather_chestplate
   model: generated_color
   textures:
-  - item/armor/glowstone_chestplate
+  - item/magical_armor/glowstone_chestplate
+  armor:
+  - models/magical_armor/glowstone
 GLOWSTONE_HELMET:
   item: leather_helmet
   model: generated_color
   textures:
-  - item/armor/glowstone_helmet
+  - item/magical_armor/glowstone_helmet
+  armor:
+  - models/magical_armor/glowstone
 GLOWSTONE_LEGGINGS:
   item: leather_leggings
   model: generated_color
   textures:
-  - item/armor/glowstone_leggings
+  - item/magical_armor/glowstone_leggings
+  armor:
+  - models/magical_armor/glowstone
 GOLDEN_APPLE_JUICE:
   item: potion
   model: generated_color
@@ -1410,12 +1478,12 @@ GPS_ACTIVATION_DEVICE_PERSONAL:
   item: stone_pressure_plate
   model: generated
   textures:
-  - item/none
+  - item/gps/gps_activation_device_personal
 GPS_ACTIVATION_DEVICE_SHARED:
   item: stone_pressure_plate
   model: generated
   textures:
-  - item/none
+  - item/gps/gps_activation_device_shared
 GPS_CONTROL_PANEL:
   item: player_head
   model: generated
@@ -1435,12 +1503,12 @@ GPS_MARKER_TOOL:
   item: redstone_torch
   model: generated
   textures:
-  - item/none
+  - item/gps/gps_marker
 GPS_TELEPORTATION_MATRIX:
   item: iron_block
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/gps/teleporter_matrix
 GPS_TELEPORTER_PYLON:
   item: purple_stained_glass
   model: block
@@ -1501,11 +1569,15 @@ HAZMAT_CHESTPLATE:
   model: generated_color
   textures:
   - item/armor/hazmat_chestplate
+  armor:
+  - models/armor/hazmat
 HAZMAT_LEGGINGS:
   item: leather_leggings
   model: generated_color
   textures:
   - item/armor/hazmat_leggings
+  armor:
+  - models/armor/hazmat
 HEATED_PRESSURE_CHAMBER:
   item: light_gray_stained_glass
   model: generated
@@ -1769,7 +1841,7 @@ MULTIMETER:
   item: clock
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/multimeter
 MUTTON_JERKY:
   item: cooked_mutton
   model: generated
@@ -1812,9 +1884,11 @@ NICKEL_INGOT:
   - item/resources/ingots/nickel_ingot
 NIGHT_VISION_GOGGLES:
   item: leather_helmet
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/night_vision_goggles
+  armor:
+  - models/technical_gadgets/night_vision_goggles
 NUCLEAR_REACTOR:
   item: player_head
   model: generated
@@ -1892,9 +1966,11 @@ OUTPUT_CHEST:
   - item/basic_machines/output_chest
 PARACHUTE:
   item: leather_chestplate
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/parachute
+  armor:
+  - models/technical_gadgets/parachute
 PICKAXE_OF_CONTAINMENT:
   item: iron_pickaxe
   model: handheld
@@ -2056,45 +2132,45 @@ RAG:
   textures:
   - item/items/rag
 RAINBOW_CLAY:
-  item: orange_terracotta
+  item: white_terracotta
   model: block
   textures:
   - item/magical_gadgets/rainbow_clay
 RAINBOW_CLAY_HALLOWEEN:
   item: orange_terracotta
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/halloween/halloween_rainbow_terracotta
 RAINBOW_CLAY_VALENTINE:
   item: pink_terracotta
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/valentine/valentine_rainbow_terracotta
 RAINBOW_CLAY_XMAS:
   item: white_terracotta
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/christmas/christmas_rainbow_terracotta
 RAINBOW_CONCRETE:
-  item: orange_concrete
+  item: white_concrete
   model: block
   textures:
   - item/magical_gadgets/rainbow_concrete
 RAINBOW_CONCRETE_HALLOWEEN:
   item: orange_concrete
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/halloween/halloween_rainbow_concrete
 RAINBOW_CONCRETE_VALENTINE:
   item: pink_concrete
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/valentine/valentine_rainbow_concrete
 RAINBOW_CONCRETE_XMAS:
   item: white_concrete
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/christmas/christmas_rainbow_concrete
 RAINBOW_GLASS:
   item: white_stained_glass
   model: block
@@ -2102,9 +2178,9 @@ RAINBOW_GLASS:
   - item/magical_gadgets/rainbow_glass
 RAINBOW_GLASS_HALLOWEEN:
   item: orange_stained_glass
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/halloween/halloween_rainbow_glass
 RAINBOW_GLASS_PANE:
   item: white_stained_glass_pane
   model: generated
@@ -2114,67 +2190,67 @@ RAINBOW_GLASS_PANE_HALLOWEEN:
   item: orange_stained_glass_pane
   model: generated
   textures:
-  - item/none
+  - item/seasonal/halloween/halloween_rainbow_glass_pane
 RAINBOW_GLASS_PANE_VALENTINE:
   item: pink_stained_glass_pane
   model: generated
   textures:
-  - item/none
+  - item/seasonal/valentine/valentine_rainbow_glass_pane
 RAINBOW_GLASS_PANE_XMAS:
   item: white_stained_glass_pane
   model: generated
   textures:
-  - item/none
+  - item/seasonal/christmas/christmas_rainbow_glass_pane
 RAINBOW_GLASS_VALENTINE:
   item: pink_stained_glass
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/valentine/valentine_rainbow_glass
 RAINBOW_GLASS_XMAS:
   item: white_stained_glass
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/christmas/christmas_rainbow_glass
 RAINBOW_GLAZED_TERRACOTTA:
-  item: orange_glazed_terracotta
+  item: white_glazed_terracotta
   model: block
   textures:
   - item/magical_gadgets/rainbow_glazed_terracotta
 RAINBOW_GLAZED_TERRACOTTA_HALLOWEEN:
   item: orange_glazed_terracotta
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/halloween/halloween_rainbow_glazed_terracotta
 RAINBOW_GLAZED_TERRACOTTA_VALENTINE:
   item: pink_glazed_terracotta
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/valentine/valentine_rainbow_glazed_terracotta
 RAINBOW_GLAZED_TERRACOTTA_XMAS:
   item: white_glazed_terracotta
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/christmas/christmas_rainbow_glazed_terracotta
 RAINBOW_WOOL:
-  item: orange_wool
+  item: white_wool
   model: block
   textures:
   - item/magical_gadgets/rainbow_wool
 RAINBOW_WOOL_HALLOWEEN:
   item: orange_wool
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/halloween/halloween_rainbow_wool
 RAINBOW_WOOL_VALENTINE:
   item: pink_wool
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/valentine/valentine_rainbow_wool
 RAINBOW_WOOL_XMAS:
   item: white_wool
-  model: generated
+  model: block
   textures:
-  - item/none
+  - item/seasonal/christmas/christmas_rainbow_wool
 RAW_CARBONADO:
   item: player_head
   model: generated
@@ -2205,16 +2281,22 @@ REINFORCED_ALLOY_BOOTS:
   model: generated
   textures:
   - item/armor/reinforced_alloy_boots
+  armor:
+  - models/armor/reinforced
 REINFORCED_ALLOY_CHESTPLATE:
   item: iron_chestplate
   model: generated
   textures:
   - item/armor/reinforced_alloy_chestplate
+  armor:
+  - models/armor/reinforced
 REINFORCED_ALLOY_HELMET:
   item: iron_helmet
   model: generated
   textures:
   - item/armor/reinforced_alloy_helmet
+  armor:
+  - models/armor/reinforced
 REINFORCED_ALLOY_INGOT:
   item: iron_ingot
   model: generated
@@ -2222,24 +2304,30 @@ REINFORCED_ALLOY_INGOT:
   - item/resources/ingots/reinforced_alloy
 REINFORCED_ALLOY_JETBOOTS:
   item: leather_boots
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/jet_boots_6
+  armor:
+  - models/technical_gadgets/jet_boots_6
 REINFORCED_ALLOY_JETPACK:
   item: leather_chestplate
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/electric_jetpack_6
+  armor:
+  - models/technical_gadgets/electric_jetpack_6
 REINFORCED_ALLOY_LEGGINGS:
   item: iron_leggings
   model: generated
   textures:
   - item/armor/reinforced_alloy_leggings
+  armor:
+  - models/armor/reinforced
 REINFORCED_ALLOY_MULTI_TOOL:
   item: shears
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/multi_tool_6
 REINFORCED_CLOTH:
   item: paper
   model: generated
@@ -2270,6 +2358,8 @@ RUBBER_BOOTS:
   model: generated_color
   textures:
   - item/armor/rubber_boots
+  armor:
+  - models/armor/hazmat
 SALT:
   item: sugar
   model: generated
@@ -2285,6 +2375,8 @@ SCUBA_HELMET:
   model: generated_color
   textures:
   - item/armor/scuba_helmet
+  armor:
+  - models/armor/hazmat
 SEISMIC_AXE:
   item: iron_axe
   model: handheld
@@ -2319,42 +2411,58 @@ SLIME_BOOTS:
   item: leather_boots
   model: generated_color
   textures:
-  - item/armor/slime_boots
+  - item/magical_armor/slime_boots
+  armor:
+  - models/magical_armor/slime
 SLIME_CHESTPLATE:
   item: leather_chestplate
   model: generated_color
   textures:
-  - item/armor/slime_chestplate
+  - item/magical_armor/slime_chestplate
+  armor:
+  - models/magical_armor/slime
 SLIME_HELMET:
   item: leather_helmet
   model: generated_color
   textures:
-  - item/armor/slime_helmet
+  - item/magical_armor/slime_helmet
+  armor:
+  - models/magical_armor/slime
 SLIME_LEGGINGS:
   item: leather_leggings
   model: generated_color
   textures:
-  - item/armor/slime_leggings
+  - item/magical_armor/slime_leggings
+  armor:
+  - models/magical_armor/slime
 SLIME_STEEL_BOOTS:
   item: iron_boots
   model: generated
   textures:
-  - item/armor/slime_steel_boots
+  - item/magical_armor/slime_steel_boots
+  armor:
+  - models/magical_armor/slime_steel
 SLIME_STEEL_CHESTPLATE:
   item: iron_chestplate
   model: generated
   textures:
-  - item/armor/slime_steel_chestplate
+  - item/magical_armor/slime_steel_chestplate
+  armor:
+  - models/magical_armor/slime_steel
 SLIME_STEEL_HELMET:
   item: iron_helmet
   model: generated
   textures:
-  - item/armor/slime_steel_helmet
+  - item/magical_armor/slime_steel_helmet
+  armor:
+  - models/magical_armor/slime_steel
 SLIME_STEEL_LEGGINGS:
   item: iron_leggings
   model: generated
   textures:
-  - item/armor/slime_steel_leggings
+  - item/magical_armor/slime_steel_leggings
+  armor:
+  - models/magical_armor/slime_steel
 SMALL_BACKPACK:
   item: player_head
   model: generated
@@ -2404,7 +2512,9 @@ SOLAR_HELMET:
   item: iron_helmet
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/solar_helmet
+  armor:
+  - models/technical_gadgets/solar_helmet
 SOLAR_PANEL:
   item: daylight_detector
   model: generated
@@ -2417,83 +2527,96 @@ SOLDER_INGOT:
   - item/resources/ingots/solder_ingot
 SOLDER_JETBOOTS:
   item: leather_boots
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/jet_boots_2
+  armor:
+  - models/technical_gadgets/jet_boots_2
 SOLDER_JETPACK:
   item: leather_chestplate
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/electric_jetpack_2
+  armor:
+  - models/technical_gadgets/electric_jetpack_2
 SOLDER_MULTI_TOOL:
   item: shears
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/multi_tool_2
 SOULBOUND_AXE:
   item: diamond_axe
   model: handheld
   textures:
-  - item/tools/soulbound_axe
+  - item/soulbound/diamond_axe
+  - item/soulbound/netherite_axe
 SOULBOUND_BOOTS:
   item: diamond_boots
   model: generated
   textures:
-  - item/none
+  - item/soulbound/diamond_boots
+  - item/soulbound/netherite_boots
 SOULBOUND_BOW:
   item: bow
   model: bow
   textures:
-  - item/weapons/soulbound_bow/soulbound_bow
-  - item/weapons/soulbound_bow/soulbound_bow_pulling_0
-  - item/weapons/soulbound_bow/soulbound_bow_pulling_1
-  - item/weapons/soulbound_bow/soulbound_bow_pulling_2
+  - item/soulbound/bow
+  - item/soulbound/bow_pulling_0
+  - item/soulbound/bow_pulling_1
+  - item/soulbound/bow_pulling_2
 SOULBOUND_CHESTPLATE:
   item: diamond_chestplate
   model: generated
   textures:
-  - item/none
+  - item/soulbound/diamond_chestplate
+  - item/soulbound/netherite_chestplate
 SOULBOUND_ELYTRA:
   item: elytra
   model: handheld
   textures:
-  - item/magical_gadgets/elytra/soulbound_elytra
-  - item/magical_gadgets/elytra/soulbound_broken_elytra
+  - item/soulbound/elytra
+  - item/soulbound/broken_elytra
 SOULBOUND_HELMET:
   item: diamond_helmet
   model: generated
   textures:
-  - item/none
+  - item/soulbound/diamond_helmet
+  - item/soulbound/netherite_helmet
 SOULBOUND_HOE:
   item: diamond_hoe
   model: handheld
   textures:
-  - item/tools/soulbound_hoe
+  - item/soulbound/diamond_hoe
+  - item/soulbound/netherite_hoe
 SOULBOUND_LEGGINGS:
   item: diamond_leggings
   model: generated
   textures:
-  - item/none
+  - item/soulbound/diamond_leggings
+  - item/soulbound/netherite_leggings
 SOULBOUND_PICKAXE:
   item: diamond_pickaxe
   model: handheld
   textures:
-  - item/tools/soulbound_pickaxe
+  - item/soulbound/diamond_pickaxe
+  - item/soulbound/netherite_pickaxe
 SOULBOUND_SHOVEL:
   item: diamond_shovel
   model: handheld
   textures:
-  - item/tools/soulbound_shovel
+  - item/soulbound/diamond_shovel
+  - item/soulbound/netherite_shovel
 SOULBOUND_SWORD:
   item: diamond_sword
   model: handheld
   textures:
-  - item/weapons/soulbound_sword
+  - item/soulbound/diamond_sword
+  - item/soulbound/netherite_sword
 SOULBOUND_TRIDENT:
   item: trident
-  model: handheld
+  model: generated
   textures:
-  - item/weapons/soulbound_trident
+  - item/soulbound/trident
 SPLINT:
   item: stick
   model: generated
@@ -2531,19 +2654,23 @@ STEEL_INGOT:
   - item/resources/ingots/steel_ingot
 STEEL_JETBOOTS:
   item: leather_boots
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/jet_boots_4
+  armor:
+  - models/technical_gadgets/jet_boots_4
 STEEL_JETPACK:
   item: leather_chestplate
-  model: generated
+  model: generated_color
   textures:
-  - item/none
+  - item/technical_gadgets/electric_jetpack_4
+  armor:
+  - models/technical_gadgets/electric_jetpack_4
 STEEL_MULTI_TOOL:
   item: shears
   model: generated
   textures:
-  - item/none
+  - item/technical_gadgets/multi_tool_4
 STEEL_PLATE:
   item: paper
   model: generated
